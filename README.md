@@ -1,4 +1,4 @@
-# WatchAmp# — Issue Tracker
+## WatchAmp — Issue Tracker
 
 This repository is used **only** to track bugs, feature requests, and feedback for **WatchAmp**, a watchOS app built with **SwiftUI**.
 
