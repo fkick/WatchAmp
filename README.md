@@ -1,6 +1,7 @@
 # WatchAmp — Issue Tracker
 <img width="512" height="512" alt="Designer-2" src="https://github.com/user-attachments/assets/5c73185d-84a6-4ccb-8d0a-84f99068759f" />
 
+Issue tracker for SwiftUI App, WatchAmp for watchOS.
 
 This repository is used **only** to track bugs, feature requests, and feedback for **WatchAmp**, a watchOS app built with **SwiftUI**.
 
@@ -84,4 +85,3 @@ For private or sensitive feedback:
 - Email: testing@nerdypup.com
 
 Thanks for helping improve **WatchAmp** 🙌
-Issue tracker for SwiftUI App, WatchAmp for watchOS.
