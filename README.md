@@ -7,6 +7,9 @@ This repository is used **only** to track bugs, feature requests, and feedback f
 
 🚫 **Source code is not shared in this repository.**
 
+
+[Now Available on the App Store!](https://apps.apple.com/us/app/watchamp/id6761737569)
+
 ---
 
 ## About the App
@@ -75,6 +78,7 @@ When reporting a bug, please include:
 
 ## TestFlight / App Store
 
+- AppStore: https://apps.apple.com/us/app/watchamp/id6761737569
 - TestFlight: https://testflight.apple.com/join/eT4GWjY7
 
 ---
