@@ -1,5 +1,6 @@
 # WatchAmp — Issue Tracker
-<img width="512" height="512" alt="Designer-2" src="https://github.com/user-attachments/assets/5c73185d-84a6-4ccb-8d0a-84f99068759f" />
+<img width="512" height="512" alt="WatchAmpIconBlue-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/106d63cc-fc9a-4a14-8654-89fd8bc6abcb" />
+
 
 Issue tracker for SwiftUI App, WatchAmp for watchOS.
 
