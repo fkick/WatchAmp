@@ -56,7 +56,7 @@ The app authenticates with Plex, discovers reachable servers, loads music librar
   <img width="200" alt="screenshot_play_queue_v2 1" src="https://github.com/user-attachments/assets/56b22881-f687-4c9f-b7bd-471449c003ff" /> 
   <img width="200" alt="repeat1" src="https://github.com/user-attachments/assets/84066caa-51ff-4db0-99c1-ca6256756065" /> 
   <img width="200" alt="repeat_off" src="https://github.com/user-attachments/assets/ab591501-f74b-4d78-8074-c4361373e2f4" />
----
+</p>
 
 ## How to Use This Repo
 
