@@ -11,6 +11,8 @@ This repository is used **only** to track bugs, feature requests, and feedback f
 
 [Now Available on the App Store!](https://apps.apple.com/us/app/watchamp/id6761737569)
 
+[TestFlight for WatchAmp 2.0!](https://testflight.apple.com/join/vrehhvsY)
+
 ---
 
 ## About the App
@@ -80,7 +82,7 @@ When reporting a bug, please include:
 ## TestFlight / App Store
 
 - AppStore: https://apps.apple.com/us/app/watchamp/id6761737569
-- TestFlight: https://testflight.apple.com/join/eT4GWjY7
+- TestFlight for WatchAmp 2.0: https://testflight.apple.com/join/vrehhvsY
 
 ---
 
