@@ -1,17 +1,19 @@
 # WatchAmp — Issue Tracker
-<img width="512" height="512" alt="WatchAmpIconBlue-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/106d63cc-fc9a-4a14-8654-89fd8bc6abcb" />
+<p align="center"><img width="256" height="256" alt="WatchAmpIconBlue-iOS-Default-1024x1024@1x" src="https://github.com/user-attachments/assets/106d63cc-fc9a-4a14-8654-89fd8bc6abcb" /></p>
 
-
-Issue tracker for SwiftUI App, WatchAmp for watchOS.
+Issue tracker Apple watchOS app, WatchAmp for Plex.
 
 This repository is used **only** to track bugs, feature requests, and feedback for **WatchAmp**, a watchOS app built with **SwiftUI**.
+
+Please see our **Wiki** for a complete **How To** manual and walkthrough of all the different views and controls.
+Please use the **Issues** tab to file bug reports and feature requests.
 
 🚫 **Source code is not shared in this repository.**
 
 
-[Now Available on the App Store!](https://apps.apple.com/us/app/watchamp/id6761737569)
+[WatchAmp 2.0 Now Available on the App Store!](https://apps.apple.com/us/app/watchamp/id6761737569)
 
-[TestFlight for WatchAmp 2.0!](https://testflight.apple.com/join/vrehhvsY)
+[TestFlight](https://testflight.apple.com/join/vrehhvsY)
 
 ---
 
@@ -27,6 +29,8 @@ The app authenticates with Plex, discovers reachable servers, loads music librar
 
 ## Features
 
+- Fast Start playback with Plex Transcoding or Direct Play of supported formats
+- UltraBlur Background Art support
 - Plex PIN-based authentication
 - Plex server discovery and selection
 - Music library browsing
@@ -41,16 +45,17 @@ The app authenticates with Plex, discovers reachable servers, loads music librar
 ## Screenshots
 
 <p align="center">
-  <img width="200" alt="incoming-228FF7BE-44FA-49D1-9EFA-AC620559F7B2" src="https://github.com/user-attachments/assets/44a73e5f-224b-4ab3-93e4-46346d727ddd" />
-  <img width="200" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-04-06 at 18 12 23" src="https://github.com/user-attachments/assets/c17d2267-ea6f-4497-b7fd-c4a4838bb69b" />
-   <img width="200" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-04-06 at 18 15 18" src="https://github.com/user-attachments/assets/e42b96c9-78c1-4101-a9bd-9367a90c5265" />
-  <img width="200" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-04-06 at 18 13 46" src="https://github.com/user-attachments/assets/cade5995-39ab-4de8-985d-55e7ef974751" />
-  <img width="200" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-04-06 at 18 14 15" src="https://github.com/user-attachments/assets/22d12f0c-e5f5-4fdd-9bac-073b2316261c" />
-  <img width="200" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-04-06 at 18 14 27" src="https://github.com/user-attachments/assets/1106e2ea-d676-42fc-a6fc-6cfd67ac5809" />
- <img width="200" alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-04-06 at 18 17 38" src="https://github.com/user-attachments/assets/3936e454-ac01-436f-935e-3f01a7ddade5" />
- <img width="200"alt="Simulator Screenshot - Apple Watch Series 11 (46mm) - 2026-04-06 at 18 16 23" src="https://github.com/user-attachments/assets/5b0d25d7-00ad-4ba1-b2b4-76dbb1a6a1ac" />
-</p>
-
+  <img width="200" alt="screenshot_now_playing_v2 1" src="https://github.com/user-attachments/assets/5e83dd4a-5e3b-4471-920e-ba17130e67da" />
+  <img width="200" alt="screenshot_signin_v2 1" src="https://github.com/user-attachments/assets/a8190db2-d02b-44e4-9111-1924ed51af6d" />
+  <img width="200" alt="screenshot_choose_library_v2 1" src="https://github.com/user-attachments/assets/5babc660-9992-4f3c-acf2-ea140d96b957" />
+  <img width="200" alt="screenshot_library_v2 1" src="https://github.com/user-attachments/assets/5dbbacc1-2f44-47ad-b15b-832f1ab6e00c" />
+  <img width="200" alt="screenshot_search_v2 1" src="https://github.com/user-attachments/assets/2e2776c0-2ce9-43fc-942b-7f51b86e5e5c" />
+  <img width="200" alt="screenshot_artists_v2 1" src="https://github.com/user-attachments/assets/10f3e03a-ec60-4dfb-ab5a-366e582ae7ba" />
+  <img width="200" alt="screenshot_artist_list_2 1" src="https://github.com/user-attachments/assets/d45ebdb4-b31c-4202-9c9d-f070150e3fa3" /> 
+  <img width="200" alt="screenshot_downloads_v2 1" src="https://github.com/user-attachments/assets/3df8ecd5-c25f-4ccb-a125-a65ce7c238df" /> 
+  <img width="200" alt="screenshot_play_queue_v2 1" src="https://github.com/user-attachments/assets/56b22881-f687-4c9f-b7bd-471449c003ff" /> 
+  <img width="200" alt="repeat1" src="https://github.com/user-attachments/assets/84066caa-51ff-4db0-99c1-ca6256756065" /> 
+  <img width="200" alt="repeat_off" src="https://github.com/user-attachments/assets/ab591501-f74b-4d78-8074-c4361373e2f4" />
 ---
 
 ## How to Use This Repo
