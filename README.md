@@ -87,7 +87,8 @@ When reporting a bug, please include:
 ## TestFlight / App Store
 
 - AppStore: https://apps.apple.com/us/app/watchamp/id6761737569
-- TestFlight for WatchAmp 2.0: https://testflight.apple.com/join/vrehhvsY
+- TestFlight for WatchAmp For Plex: https://testflight.apple.com/join/vrehhvsY
+- TestFlight for WatchAmp For Jellyfin: https://testflight.apple.com/join/vGfMxAzt
 
 ---
 
