@@ -11,7 +11,7 @@ Please use the **Issues** tab to file bug reports and feature requests.
 🚫 **Source code is not shared in this repository.**
 
 
-[WatchAmp 2.0 Now Available on the App Store!](https://apps.apple.com/us/app/watchamp/id6761737569)
+[WatchAmp 3.0 Now Available on the App Store!](https://apps.apple.com/us/app/watchamp/id6761737569)
 
 [TestFlight](https://testflight.apple.com/join/vrehhvsY)
 
@@ -87,7 +87,8 @@ When reporting a bug, please include:
 ## TestFlight / App Store
 
 - AppStore: https://apps.apple.com/us/app/watchamp/id6761737569
-- TestFlight for WatchAmp 2.0: https://testflight.apple.com/join/vrehhvsY
+- TestFlight for WatchAmp For Plex: https://testflight.apple.com/join/vrehhvsY
+- TestFlight for WatchAmp For Jellyfin: https://testflight.apple.com/join/vGfMxAzt
 
 ---
 
