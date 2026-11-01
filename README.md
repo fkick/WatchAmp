@@ -44,29 +44,44 @@ The app authenticates with Plex, discovers reachable servers, loads music librar
 
 ## Screenshots
 
-<p align="center">
-  <img width="200" alt="screenshot_now_playing_v2 1" src="https://github.com/user-attachments/assets/5e83dd4a-5e3b-4471-920e-ba17130e67da" />
-  <img width="200" alt="screenshot_signin_v2 1" src="https://github.com/user-attachments/assets/a8190db2-d02b-44e4-9111-1924ed51af6d" />
-  <img width="200" alt="screenshot_choose_library_v2 1" src="https://github.com/user-attachments/assets/5babc660-9992-4f3c-acf2-ea140d96b957" />
-  <img width="200" alt="screenshot_library_v2 1" src="https://github.com/user-attachments/assets/5dbbacc1-2f44-47ad-b15b-832f1ab6e00c" />
-  <img width="200" alt="screenshot_search_v2 1" src="https://github.com/user-attachments/assets/2e2776c0-2ce9-43fc-942b-7f51b86e5e5c" />
-  <img width="200" alt="screenshot_artists_v2 1" src="https://github.com/user-attachments/assets/10f3e03a-ec60-4dfb-ab5a-366e582ae7ba" />
-  <img width="200" alt="screenshot_artist_list_2 1" src="https://github.com/user-attachments/assets/d45ebdb4-b31c-4202-9c9d-f070150e3fa3" /> 
-  <img width="200" alt="screenshot_downloads_v2 1" src="https://github.com/user-attachments/assets/3df8ecd5-c25f-4ccb-a125-a65ce7c238df" /> 
-  <img width="200" alt="screenshot_play_queue_v2 1" src="https://github.com/user-attachments/assets/56b22881-f687-4c9f-b7bd-471449c003ff" /> 
-  <img width="200" alt="repeat1" src="https://github.com/user-attachments/assets/84066caa-51ff-4db0-99c1-ca6256756065" /> 
-  <img width="200" alt="repeat_off" src="https://github.com/user-attachments/assets/ab591501-f74b-4d78-8074-c4361373e2f4" />
-</p>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none; background: none;">
+    <td align="center" style="border: none; background: none; padding: 10px;">
+      <img alt="Now Playing" src="https://github.com/fkick/WatchAmp/wiki/images/Now_Playing.png" style="max-height: 500px;" /><br />
+    </td>
+     <td align="center" style="border: none; background: none; padding: 10px;">
+      <img alt="Audiobook Now Playing Screen" src="https://github.com/fkick/WatchAmp/wiki/images/AudioBooks.png" style="max-height: 500px;" /><br />
+    </td>
+     <td align="center" style="border: none; background: none; padding: 10px;">
+      <img alt="Lyrics Now Playing Screen" src="https://github.com/fkick/WatchAmp/wiki/images/Now_Playing_Lyrics.png" style="max-height: 500px;" /><br />
+    </td>
+  </tr>
+</table>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none; background: none;">
+    <td align="center" style="border: none; background: none; padding: 10px;">
+      <img alt="Now Playing" src="https://github.com/fkick/WatchAmp/wiki/images/Watch_SignIn_Plex.png" style="max-height: 500px;" /><br />
+    </td>
+     <td align="center" style="border: none; background: none; padding: 10px;">
+      <img alt="Audiobook Now Playing Screen" src="https://github.com/fkick/WatchAmp/wiki/images/Plex_Sign_in.png" style="max-height: 500px;" /><br />
+    </td>
+     <td align="center" style="border: none; background: none; padding: 10px;">
+      <img alt="Lyrics Now Playing Screen" src="https://github.com/fkick/WatchAmp/wiki/images/Watch_SignIn_Jelly_QC.png" style="max-height: 500px;" /><br />
+    </td>
+      <td align="center" style="border: none; background: none; padding: 10px;">
+      <img alt="Lyrics Now Playing Screen" src="https://github.com/fkick/WatchAmp/wiki/images/Watch_SignIn_Nav_QC.png" style="max-height: 500px;" /><br />
+    </td>
+  </tr>
+</table>
 
 ## How to Use This Repo
 
 Please use **GitHub Issues** to:
 
-- 🐞 Report bugs or crashes
-- 💡 Suggest new features
-- 📈 Make UX or accessibility suggestions
+- Report bugs or crashes
+- Request new features
 
-➡️ **Before opening a new issue**, please check if a similar one already exists.
+**Before opening a new issue**, please check if a similar one already exists.
 
 ---
 
@@ -97,4 +112,4 @@ When reporting a bug, please include:
 For private or sensitive feedback:
 - Email: testing@nerdypup.com
 
-Thanks for helping improve **WatchAmp** 🙌
+Thanks for helping improve **WatchAmp**
